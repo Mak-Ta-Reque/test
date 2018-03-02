@@ -1,1 +1,1 @@
- This is NewFile1, i am king of my kingdom
+usingBufferedReader(genaratedFileName)
